@@ -1,3 +1,7 @@
+NOTE: This repository is forked from dojichart/dojichart. Below is the original README.md file.
+
+
+
 # DojiChart
 
 [DojiChart](http://dojichart.com) is a JavaScript library for displaying candlestick charts and technical indicators using the canvas element.
